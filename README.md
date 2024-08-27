@@ -6,6 +6,7 @@
 - 전체 리소스(이미지 등은) 원저작자에게 있습니다.
 - 문제 발생시 연락을 즉시 삭제하겠습니다.
 - 원사이트 : https://www.wonderplace.com
+- 배포 : https://clone-wonderplace-two.vercel.app/
 - 작업기간 : 2024.04.12 ~ 2024.04.30
 
 ## 개선사항
